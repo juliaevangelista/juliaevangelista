@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliaevangelista
-- 👀 I’m interested in Games Development
-- 🌱 I’m currently learning C# for Unity
+- 👀 I’m interested in --
+- 🌱 I’m currently learning --
 
 <!---
 juliaevangelista/juliaevangelista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
