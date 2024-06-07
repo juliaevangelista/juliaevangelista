@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliaevangelista
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning mobile development
 
 <!---
 juliaevangelista/juliaevangelista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
