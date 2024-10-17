@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juliaevangelista
-- 👀 I’m interested in web development
+- 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning mobile development
 
 <!---
