@@ -1,7 +1,7 @@
 # About me
 - 👋 Hi, I’m @juliaevangelista
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning mobile development
+- 🌱 I’m currently learning mobile and web development
 - 💻 I work with technologies like React, React Native, and Flutter  
 - 🚀 Passionate about building apps that make life easier  
 - 📫 How to reach me: juliaevangelista70@gmail.com  
